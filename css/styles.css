@@ -645,6 +645,7 @@ img {
 .portfolio-link:hover .portfolio-top-text,
 .portfolio-link:focus .portfolio-top-text {
   transform: translateY(0%);
+  margin: 0;
 }
 
 .portfolio-link {
@@ -706,6 +707,7 @@ img {
   padding-left: 24px;
   padding-right: 24px;
   height: 100%;
+  margin-top: 5px;
 }
 
 /*Modal*/
